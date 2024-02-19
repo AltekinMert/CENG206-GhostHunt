@@ -10,6 +10,6 @@ game design principles.
 
 ### Images
 
-| Main Menu                            | In Game                         | About                                  | How to Play |
-| ------------------------------------ | ------------------------------- | -------------------------------------- | ----------- |
+| Main Menu                            | In Game                         | How to Play                                  
+| ------------------------------------ | ------------------------------- | -------------------------------------- |
 | ![Main Menu](./assets/main_menu.png) | ![In Game](./assets/ingame.png) | ![How to Play](./assets/howtoplay.png) |
